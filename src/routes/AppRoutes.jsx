@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from "react-router.jsx"
+import { createBrowserRouter, RouterProvider } from "react-router"
 import ProtectedRoutes from "../utils/ProtectedRoutes.jsx"
 import Register from "../Pages/Register.jsx"
 import Login from "../Pages/Login.jsx"
