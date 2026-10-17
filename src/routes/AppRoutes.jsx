@@ -1,14 +1,14 @@
-import { createBrowserRouter, RouterProvider } from "react-router"
-import ProtectedRoutes from "../utils/ProtectedRoutes"
-import Register from "../Pages/Register"
-import Login from "../Pages/Login"
-import PublicRoutes from "../utils/PublicRoutes"
-import DashboardLayout from "../component/dashboardLayout"
-import Dashboard from "../Pages/Dashboard"
-import Setting from "../Pages/Setting"
-import Profile from "../Pages/Profile"
-import Problems from "../Pages/Problems"
-import Progress from '../Pages/Progress'
+import { createBrowserRouter, RouterProvider } from "react-router.jsx"
+import ProtectedRoutes from "../utils/ProtectedRoutes.jsx"
+import Register from "../Pages/Register.jsx"
+import Login from "../Pages/Login.jsx"
+import PublicRoutes from "../utils/PublicRoutes.jsx"
+import DashboardLayout from "../component/dashboardLayout.jsx"
+import Dashboard from "../Pages/Dashboard.jsx"
+import Setting from "../Pages/Setting.jsx"
+import Profile from "../Pages/Profile.jsx"
+import Problems from "../Pages/Problems.jsx"
+import Progress from '../Pages/Progress.jsx'
 
 
 const AppRoutes = () => {
