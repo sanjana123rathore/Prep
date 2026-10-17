@@ -4,7 +4,7 @@ import Register from "../Pages/Register.jsx"
 import Login from "../Pages/Login.jsx"
 import PublicRoutes from "../utils/PublicRoutes.jsx"
 import Dashboard from "../Pages/Dashboard.jsx"
-import DashboardLayout from "../component/dashboardLayout.jsx"
+import DashboardLayout from "../component/DashboardLayout.jsx";
 import Setting from "../Pages/Setting.jsx"
 import Profile from "../Pages/Profile.jsx"
 import Problems from "../Pages/Problems.jsx"
